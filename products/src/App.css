@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+section {
+  border: 1px solid;
+  padding: 16px;
+  margin: 16px;
+  display: flex;
+  gap: 16px;
+  background: rgb(60, 179, 113);
+
+}
+
+.product {
+  border: 1px dashed;
+  padding: 8px;
+}
